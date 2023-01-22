@@ -27,7 +27,7 @@ inject node method is used which carefully redistributes tokens among the parse-
 2) Build main.go and run the executable
 
 #### Runtime
-To test the application with various expressions add lambda calculus expression in the 
+To test the application with various expressions add lambda calculus expressions in the 
 data.txt file. The lexical analyser is line-break sensitive, a new line will result in
 a new expression with its own parse-tree.
 
